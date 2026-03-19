@@ -1,0 +1,48 @@
+.universalMain{
+    display: flex ;
+    justify-content: center ;
+    padding: 5rem;
+    display: flex;
+    width: 100%;
+}
+.second_div{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+     padding: 30px;
+}
+
+.image_div{
+    width: 60%;
+}
+.image_div>img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.heading_div{
+    width: 35%;
+}
+
+.error_div{
+    font-size: 23px;
+    color: rgb(255, 85, 0);
+    width: 130px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(254, 182, 145);
+}
+
+.span_wrong{
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.error_para{
+    font-size: 20px;
+    font-weight: 600;
+    color: gray;
+}
